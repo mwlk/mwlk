@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, my name is Mirko 👋
 
 
 Saludos, mi nombre es Mirko y mi apellido es Wlk (se pronuncia Vek), soy estudiante de la carrera de Ingeniería en Sistemas de Información en Universidad Tecnológica Nacional, regional Córdoba, resido en Córdoba Capital, me interesa el mundo de la programación, sobre todo del lado del backend, en especial el lenguaje Java y C#; además entusiasta del Arduino.
