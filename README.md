@@ -36,7 +36,3 @@ Programo y ademas estudio sobre Spring, Net Core y Node JS del lado del backend,
 [linkedin]: https://www.linkedin.com/in/mirko-wlk-002259195
 [gmail]: mailto:mirkoivowlk@gmail.com
 [wsp]: https://api.whatsapp.com/send?phone=543517439345
-
-## Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="playlist Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
