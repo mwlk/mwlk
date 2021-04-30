@@ -25,6 +25,7 @@ Programo y ademas estudio sobre Spring, Net Core y Node JS del lado del backend,
 -  O Full Stack
 -  Poder liderar un equipo
 
+* :office:
 
 ### ⚡ Medios de Contacto
 
