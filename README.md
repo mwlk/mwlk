@@ -13,4 +13,4 @@ Programo y ademas estudio sobre Spring, Net Core y Node JS del lado del backend,
 
 [linkedin]: https://www.linkedin.com/in/mirko-wlk-002259195
 [gmail]: mailto:mirkoivowlk@gmail.com
-[wsp]: https://api.whatsapp.com/send?phone=3517439345
+[wsp]: https://api.whatsapp.com/send?phone=543517439345
