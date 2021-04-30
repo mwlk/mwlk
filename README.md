@@ -7,11 +7,11 @@ Programo y ademas estudio sobre Spring, Net Core y Node JS del lado del backend,
 ## 🔭 Skills
 - Java (Spring API - MVC)
 - Net Core (API)
+- Node 
 - NET MVC
 - Angular
 - BBDD Relacionales (SQL-SERVER / MySQL)
 - Trabajo dentro de SCURM
-- Node 
 
 ### 🌱 Estudiando 
 - React Native
