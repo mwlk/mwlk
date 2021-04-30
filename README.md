@@ -5,4 +5,8 @@ Saludos, mi nombre es Mirko y mi apellido es Wlk (se pronuncia Vek), soy estudia
 Programo y ademas estudio sobre Spring, Net Core y Node JS del lado del backend, y Angular del lado del frontend, de BBDD Relacionales SqlServer y MySql, recien empezando en el desarrollo mobile con React Native y ademaaas Power BI 
 
 ### Linkedin
-[https://www.linkedin.com/in/mirko-wlk-002259195/][website] 👋
+
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/mirko-wlk-002259195
