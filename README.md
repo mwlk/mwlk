@@ -4,9 +4,29 @@
 Saludos, mi nombre es Mirko y mi apellido es Wlk (se pronuncia Vek), soy estudiante de la carrera de Ingeniería en Sistemas de Información en Universidad Tecnológica Nacional, regional Córdoba, resido en Córdoba Capital, me interesa el mundo de la programación, sobre todo del lado del backend, en especial el lenguaje Java y C#; además entusiasta del Arduino.
 Programo y ademas estudio sobre Spring, Net Core y Node JS del lado del backend, y Angular del lado del frontend, de BBDD Relacionales SqlServer y MySql, recien empezando en el desarrollo mobile con React Native y ademaaas Power BI 
 
-<br />
+### 🔭 Skills
+- Java (Spring API - MVC)
+- Net Core (API)
+- NET MVC
+- Angular
+- BBDD Relacionales (SQL-SERVER / MySQL)
+- Trabajo dentro de SCURM
+- Node 
+- 
+### 🌱 Estudiando 
+- React Native
+- Power BI
+- ETL
+- Desarrollo Android
 
-### ⚡Medios de Contacto
+### 🥅 Metas 
+- Conseguir primer empleo IT
+- Ser Programador Backend
+-  O Full Stack
+-  Poder liderar un equipo
+
+
+### ⚡ Medios de Contacto
 
  [<img align="left" alt="mirko | LinkedIn" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/linkedin.svg" />][linkedin]
  [<img align="left" alt="mirko | LinkedIn" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/gmail.svg" />][gmail]
