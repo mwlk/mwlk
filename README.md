@@ -7,8 +7,8 @@ Programo y ademas estudio sobre Spring, Net Core y Node JS del lado del backend,
 ### Linkedin
 
 [<img align="left" alt="mirko | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="mirko | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
-[<img align="left" alt="mirko | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/whatsapp.svg" />][wsp]
+[<img align="left" alt="mirko | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/gmail.svg" />][gmail]
+[<img align="left" alt="mirko | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/whatsapp.svg" />][wsp]
 
 
 [linkedin]: https://www.linkedin.com/in/mirko-wlk-002259195
