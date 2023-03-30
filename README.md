@@ -5,7 +5,6 @@ Saludos, mi nombre es Mirko y mi apellido es Wlk (se pronuncia Vek), soy estudia
 Programo y ademas estudio sobre Spring, Net Core y Node JS del lado del backend, y Angular del lado del frontend, de BBDD Relacionales SqlServer y MySql, recien empezando en el desarrollo mobile con React Native y ademaaas Power BI 
 
 ## 🔭 Skills
-- Java (Spring API - MVC)
 - Net Core (API)
 - Node 
 - NET MVC
@@ -14,10 +13,8 @@ Programo y ademas estudio sobre Spring, Net Core y Node JS del lado del backend,
 - Trabajo dentro de SCURM
 
 ### 🌱 Estudiando 
-- React Native
-- Power BI
-- ETL
-- Desarrollo Android
+- Ionic
+- Golang
 
 ### 🥅 Metas 
 - Conseguir primer empleo IT  :office:
